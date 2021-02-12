@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "android-sdk": "^1.0.0",
+    "cordova": "^10.0.0"
+  }
+}
